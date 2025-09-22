@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jamel Ben Hassine</h1>
-<h3 align="center">A passionate frontend developer from tunisia</h3>
+<h3 align="center">A passionate web developer from tunisia</h3>
 
 - 🔭 I’m currently unemployed
 
-- 🌱 I’m currently learning **React,thailwind**
+-👨‍💻 All of my projects are available at **https://portfolly.io/jamel_ben_hassine** 
+
+- 🌱 I’m currently learning **React,thailwind,Spring Boot**
 
 - 📫 How to reach me **jameleddine2222@gmail.com**
 
