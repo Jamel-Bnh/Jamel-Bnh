@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jamel Ben Hassine</h1>
 <h3 align="center">A passionate web developer from tunisia</h3>
 
-- 🔭 I’m currently unemployed
 
 - 👨‍💻 All of my projects are available at **https://portfolly.io/jamel_ben_hassine** 
 
