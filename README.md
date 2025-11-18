@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jamel Ben Hassine</h1>
+<h1 align="center">Hi 👋, I'm Jamel Eddine Ben Hassine</h1>
 <h3 align="center">A passionate web developer from tunisia</h3>
 
 
