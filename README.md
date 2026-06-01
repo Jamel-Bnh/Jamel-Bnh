@@ -1,22 +1,178 @@
-<h1 align="center">Hi 👋, I'm Jamel Eddine Ben Hassine</h1>
-<h3 align="center">A passionate web developer from tunisia</h3>
+<!-- ====================== HEADER ====================== -->
+<div align="center">
 
+# Jamel Eddine Ben Hassine
 
-- 👨‍💻 All of my projects are available at **https://portfolly.io/jamel_ben_hassine** 
+#### `Full-Stack Engineer` · `Web Developer` · `Open Source Builder`
 
-- 🌱 I’m currently learning **React,thailwind,Spring Boot**
+<img src="https://img.shields.io/badge/-Building%20real%20world%20platforms%20with%20clean%20full--stack%20architecture-0d1117?style=flat-square&labelColor=0d1117&color=6366f1" alt="tagline"/>
 
-- 📫 How to reach me **jameleddine2222@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jamel ben hassine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamel ben hassine" height="30" width="40" /></a>
-<a href="https://discord.gg/Djou-ftw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Djou-ftw" height="30" width="40" /></a>
+<p>
+  <a href="https://linkedin.com/in/jamel-ben-hassine"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://portfolly.io/jamel_ben_hassine"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://discord.gg/Djou-ftw"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="mailto:jameleddine2222@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamel-bnh&show_icons=true&locale=en&layout=compact" alt="jamel-bnh" /></p>
+<!-- ====================== ABOUT ====================== -->
+## 👋 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamel-bnh&show_icons=true&locale=en" alt="jamel-bnh" /></p>
+```ts
+const jamel = {
+  role:      "Full-Stack Engineer",
+  location:  "🇹🇳 Tunisia",
+  focus:     ["Scalable web platforms", "Clean architecture", "Production-ready code"],
+  loves:     ["Full-Stack Dev", "Open Source", "Building real products"],
+  currently: "Shipping Siana Pro — an artisan marketplace built with Next.js & Node.js 🏗️",
+  learning:  ["Go + Fiber", "Spring Boot", "Advanced DevOps"],
+  motto:     "Build it clean, ship it fast, scale it right.",
+};
+```
+
+- 🔭 Working on [**Siana Pro**](https://github.com/Jamel-Bnh/Siana-Pro) — a full-stack marketplace connecting clients with verified artisans & home service professionals.
+- ⚡ Built the [**Siana Pro API**](https://github.com/Jamel-Bnh/Siana-Pro-Api) — full backend with auth, payments, messaging & role management.
+- 🌱 Currently leveling up in **Go / Fiber, Spring Boot & advanced system design**.
+- 💬 Ask me about **TypeScript, Node.js, React, Next.js, Angular & Docker**.
+- 📫 Reach me at **jameleddine2222@gmail.com**
+
+<!-- ====================== TECH STACK ====================== -->
+## 🛠️ Tech Stack
+
+<table align="left">
+  <tr>
+    <td align="center" width="130"><b>Languages</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,python,java,php,cpp,go&theme=dark" alt="languages"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><b>Frontend</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,sass&theme=dark" alt="frontend"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><b>Backend</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,symfony&theme=dark" alt="backend"/></a>
+      &nbsp;<img src="https://img.shields.io/badge/Fiber-00ACD7?style=flat-square&logo=go&logoColor=white" alt="Fiber" height="28"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><b>Databases</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" alt="databases"/></a>
+      &nbsp;<img src="https://img.shields.io/badge/NeonDB-00E5BF?style=flat-square&logo=neon&logoColor=black" alt="NeonDB" height="28"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><b>Auth & APIs</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" height="28"/>
+      &nbsp;<img src="https://img.shields.io/badge/REST-6366f1?style=flat-square&logo=fastapi&logoColor=white" alt="REST" height="28"/>
+      &nbsp;<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="postman"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><b>DevOps & Tools</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git,linux,github,figma&theme=dark" alt="devops"/></a>
+    </td>
+  </tr>
+</table>
+
+<br clear="all"/>
+
+<!-- ====================== PROJECTS ====================== -->
+## 🚀 Featured Projects
+
+```bash
+$ git log --author="jamel" --oneline --shortstat
+★★★  Siana-Pro-Api        backend: auth · JWT · payments · messaging · role mgmt (Node · Express · MongoDB · Docker)
+★★★  Siana-Pro            artisan marketplace — Next.js · React · TypeScript · Tailwind (graduation project)
+★★   Dashboard_Admin      full admin dashboard with management UI
+★★   food-app             full-stack food ordering app — TypeScript
+★★   Word-Clash           monkeytype-inspired typing speed game — TypeScript · SCSS
+★    Weather-App          real-time weather — Angular · TypeScript · Weather API
+★    password-generator   secure password generator — Angular · SCSS
+★    Prototypr-e-commerce e-commerce prototype — Vanilla JS · CSS
+```
+
+<div align="center">
+
+[`Siana-Pro`](https://github.com/Jamel-Bnh/Siana-Pro) · [`Siana-Pro-Api`](https://github.com/Jamel-Bnh/Siana-Pro-Api) · [`food-app`](https://github.com/Jamel-Bnh/food-app) · [`Word-Clash`](https://github.com/Jamel-Bnh/Word-Clash) · [`Weather-App`](https://github.com/Jamel-Bnh/Weather-App) · [`password-generator`](https://github.com/Jamel-Bnh/password-generator)
+
+</div>
+
+<!-- ====================== STATS ====================== -->
+## 📊 GitHub Stats
+
+```sql
+SELECT focus, commits, coffee
+FROM   jamel.daily_routine
+WHERE  mode = 'building'
+ORDER  BY consistency DESC;
+-- → ships clean code, one commit at a time ☕
+```
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Jamel-Bnh&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=06b6d4&currStreakLabel=6366f1" alt="streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jamel-Bnh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="github stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jamel-Bnh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&layout=compact" alt="top langs"/>
+
+</div>
+
+<!-- ====================== CONTRIBUTIONS ====================== -->
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+<!-- ====================== QUOTE ====================== -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
+  <img alt="quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</picture>
+
+</div>
+
+<!-- ====================== FOOTER ====================== -->
+## 🤝 Let's Connect
+
+```bash
+$ echo "Let's build something great together 🚀"
+$ whoami
+> Jamel-Bnh · open to collaborations, open-source & cool SaaS ideas
+```
+
+<div align="center">
+
+If you like my work, consider following and dropping a ⭐ on the projects you find useful!
+
+<a href="https://linkedin.com/in/jamel-ben-hassine"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://portfolly.io/jamel_ben_hassine"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://discord.gg/Djou-ftw"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<a href="mailto:jameleddine2222@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=120&section=footer" alt="footer"/>
+
+</div>
