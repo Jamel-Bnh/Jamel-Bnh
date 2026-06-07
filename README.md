@@ -60,7 +60,7 @@ const jamel = {
   <tr>
     <td align="center" width="130"><b>Backend</b></td>
     <td align="left">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,symfony&theme=dark" alt="backend"/></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,spring&theme=dark" alt="backend"/></a>
       &nbsp;<img src="https://img.shields.io/badge/Fiber-00ACD7?style=flat-square&logo=go&logoColor=white" alt="Fiber" height="28"/>
     </td>
   </tr>
