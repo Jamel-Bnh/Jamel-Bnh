@@ -3,7 +3,7 @@
 
 # Jamel Eddine Ben Hassine
 
-#### `Full-Stack Engineer` · `Web Developer` · `Open Source Builder`
+#### `Full-Stack Developer` · `Web Developer` · `Open Source Builder`
 
 <img src="https://img.shields.io/badge/-Building%20real%20world%20platforms%20with%20clean%20full--stack%20architecture-0d1117?style=flat-square&labelColor=0d1117&color=6366f1" alt="tagline"/>
 
@@ -25,7 +25,7 @@
 
 ```ts
 const jamel = {
-  role:      "Full-Stack Engineer",
+  role:      "Full-Stack Developer",
   location:  "🇹🇳 Tunisia",
   focus:     ["Scalable web platforms", "Clean architecture", "Production-ready code"],
   loves:     ["Full-Stack Dev", "Open Source", "Building real products"],
